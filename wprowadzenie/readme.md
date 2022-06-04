@@ -19,3 +19,19 @@ Jeśli użytkownik zgadnie, to program wyświetli informację “Udało się”,
 cd wprowadzenie/zadanie_2/ && npm install && cd ../..
 node wprowadzenie/zadanie_2/index.js
 ```
+
+## Zadanie 3
+
+## Rozwiązanie
+```
+cd wprowadzenie/zadanie_3/ && npm install && npm run now
+```
+
+### Rozszerzenie
+
+1. Stwórz nowy projekt w JavaScript za pomocą npm init 
+2. Stwórz plik time.js 
+3. Doinstaluj bibliotekę moment (https://momentjs.com/ lub https://date-fns.org/)
+4. W pliku time.js na konsoli wyświetl aktualną datę i czas 
+5. Dodaj skrypt “now” do sekcji “scripts” w package.json 
+6. Niech twoja aplikacja działa na polecenie: npm now i wyświetla aktualny czas (na podstawie instrukcji z time.js)
