@@ -26,13 +26,3 @@ prompt.start();
 prompt.get(schema, function (err, result) {
     console.log("Udało się");
 });
-
-
-
-
-
-
-
-
-// console.log(`Udało się`);
-// console.log(`Spróbuj ponownie`);
