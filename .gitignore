@@ -1,1 +1,5 @@
 .idea
+.node_modules
+
+/wprowadzenie/zadanie_1/node_modules
+/wprowadzenie/zadanie_2/node_modules
